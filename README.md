@@ -18,6 +18,12 @@ Data Pipeline	数据流反模式检测	🔥🔥🔥
 Model Craft	参数初始化可视化	🔥🔥
 Training Loop	梯度异常熔断机制	🔥🔥🔥🔥
 
+graph TD
+    A[Code Fragments] --> B{Why?} 
+    B --> C[System Design Principles]
+    C --> D[Engineering Patterns]
+    D --> E[Production Evolution]
+
 ## 🌸 认知友好设计
 A[碎片化代码] --> B{为什么？} --> C[设计原则]
 C --> D[最佳实践] --> E[工业级扩展]
