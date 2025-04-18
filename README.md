@@ -11,18 +11,15 @@ optimizer.step()
 
 传统教程像"乐高说明书"，只展示积木组合方式；而我们将带你看懂每个卡扣的设计原理。
 
-🧭 导航地图
-🚀 核心模块
-模块	亮点	知识密度
-Data Pipeline	数据流反模式检测	🔥🔥🔥
-Model Craft	参数初始化可视化	🔥🔥
-Training Loop	梯度异常熔断机制	🔥🔥🔥🔥
+## 🧭 导航地图
+### 🚀 核心模块	
+		
+| 模块           | 亮点             | 知识密度        |
+|----------------|------------------|-----------------|
+| Data Pipeline  | 数据流反模式检测   | 🔥🔥🔥        |
+| Model Craft    | 参数初始化可视化   | 🔥🔥          |
+| Training Loop  | 梯度异常熔断机制   | 🔥🔥🔥🔥     |
 
-graph TD
-    A[Code Fragments] --> B{Why?} 
-    B --> C[System Design Principles]
-    C --> D[Engineering Patterns]
-    D --> E[Production Evolution]
 
 ## 🌸 认知友好设计
 A[碎片化代码] --> B{为什么？} --> C[设计原则]
