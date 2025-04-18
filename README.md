@@ -62,5 +62,5 @@ Discord
 ## 🪶 设计理念
 "优秀的Pipeline不是写出来的，而是生长出来的。"
 —— 我们相信代码应该像年轮一样，自然地记录每一次工程决策的轨迹。
-Pipeline Growth
+(Pipeline Growth)
 
